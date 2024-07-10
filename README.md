@@ -6,7 +6,7 @@ Hi there, I'm Dianne! 👋
 
 I'm a dedicated Quality Assurance professional with a passion for ensuring excellence in every detail. With a meticulous eye and a commitment to maintaining the highest standards, I've spent years perfecting processes and ensuring that products and services meet and exceed expectations.
 
-## My Experience
+## 💼 My Experience
 
 With over six years of experience at Warner Bros Discovery in Madrid, I've led impactful initiatives in Technical Program Management and Global Quality Assurance. My journey includes spearheading the launch preparations for HBO Max across LATAM and EMEA, integrating improvements from previous US launches, and driving comprehensive test strategies. I've managed cross-functional teams, collaborated closely with Product, Engineering, and QA departments, and facilitated the transition to automation testing. Prior roles at Optiva Media (now an EPAM Company) enriched my expertise in embedded software testing and multiplatform QA, contributing significantly to Vodafone’s Set Top Boxes and HBO Streaming App.
 
