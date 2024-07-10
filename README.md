@@ -44,7 +44,7 @@ With over six years of experience at Warner Bros Discovery in Madrid, I've led i
   - **Other Tools**:
     - Google Suite: Productivity and collaboration tools including Google Docs, Sheets, Slides and Drive
     - Microsoft Office Suite: Suite of applications for productivity including Word, Excel, PowerPoint and Outlook
-    - Visual Studio Code (VSCode=: Lightweight code editor with support for various programming languages and extensions
+    - Visual Studio Code (VSCode): Lightweight code editor with support for various programming languages and extensions
 
 ### Soft Skills
 - **Adaptability**: Flexible and adaptable to changing environments.
