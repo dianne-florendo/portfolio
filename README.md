@@ -1,8 +1,8 @@
 # Portfolio
 
-## About Me
+## 👋 About Me
 
-Hi there, I'm Dianne! 👋
+Hi there, I'm Dianne! 
 
 I'm a dedicated Quality Assurance professional with a passion for ensuring excellence in every detail. With a meticulous eye and a commitment to maintaining the highest standards, I've spent years perfecting processes and ensuring that products and services meet and exceed expectations.
 
