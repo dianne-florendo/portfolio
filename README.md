@@ -8,13 +8,15 @@ I'm a dedicated Quality Assurance professional with a passion for ensuring excel
 
 ## 💼 My Experience
 
-With over six years of experience at Warner Bros Discovery in Madrid, I've led impactful initiatives in Technical Program Management and Global Quality Assurance. My journey includes spearheading the launch preparations for HBO Max across LATAM and EMEA, integrating improvements from previous US launches, and driving comprehensive test strategies. I've managed cross-functional teams, collaborated closely with Product, Engineering, and QA departments, and facilitated the transition to automation testing. Prior roles at Optiva Media (now an EPAM Company) enriched my expertise in embedded software testing and multiplatform QA, contributing significantly to Vodafone’s Set Top Boxes and HBO Streaming App.
+With over six years of experience at Warner Bros Discovery in Madrid, I've led impactful initiatives in Technical Program Management and Global Quality Assurance. My journey includes spearheading the launch preparations for HBO Max across LATAM and EMEA, integrating improvements from previous US launches, and driving comprehensive test strategies. I've managed cross-functional teams, collaborated closely with Product, Engineering, and QA departments, and facilitated the transition to automation testing. 
+
+Prior roles at Optiva Media (now an EPAM Company) enriched my expertise in embedded software testing and multiplatform QA, contributing significantly to Vodafone’s Set Top Boxes and HBO Streaming App.
 
 ## 🔧 Skills & Expertise
 
 - **Quality Assurance Management**: Proven ability to lead and manage Quality Assurance processes and teams, ensuring comprehensive test coverage and high software quality standards. I am experienced in devising test strategies, overseeing test execution, and driving process improvements to optimize QA workflows and deliver flawless user experiences.
 - **Project Management**: Proven track record in leading complex projects from inception to successful deployments. Skilled in coordinating cross-functional teams, managing project timelines, and delivering results aligned with business objectives. Experienced in Agile methodologies, ensuring iterative improvements and efficient project execution.
-- **Quality Assurance**: Proficient in manual testing methodologies, ensuring thorough test coverage and high-quality software deliverables through rigorous testing processes. Experienced in collaborating with development and product teams to identify and resolve issues early in the software development lifecycle.
+- **QA Engineering**: Proficient in manual testing methodologies, ensuring thorough test coverage and high-quality software deliverables through rigorous testing processes. Experienced in collaborating with development and product teams to identify and resolve issues early in the software development lifecycle.
 
 ### Technical Competencies
 
