@@ -12,6 +12,13 @@ With over six years of experience at Warner Bros Discovery in Madrid, I've led i
 
 Prior roles at Optiva Media (now an EPAM Company) enriched my expertise in embedded software testing and multiplatform QA, contributing significantly to Vodafone’s Set Top Boxes and HBO Streaming App.
 
+## 👩‍💻 Personal Projects
+
+### My Personal Site
+- **Description:** This project is my personal website. This is a work in progress, created after learning CSS and HTML. It serves as a portfolio to showcase my professional experience and personal journey. Each commit includes comments detailing bug fixes or improvements made during development.
+- **Repository:** [GitHub - my-personal-site](https://github.com/dianne-florendo/my-personal-site)
+- **Role:** I designed and developed the website using CSS and HTML to create a clean and functional user interface. This project helped me understand front-end development and learn more about web design.
+
 ## 🔧 Skills & Expertise
 
 - **Quality Assurance Management**: Proven ability to lead and manage Quality Assurance processes and teams, ensuring comprehensive test coverage and high software quality standards. I am experienced in devising test strategies, overseeing test execution, and driving process improvements to optimize QA workflows and deliver flawless user experiences.
@@ -60,6 +67,8 @@ Prior roles at Optiva Media (now an EPAM Company) enriched my expertise in embed
 - Spanish: C1
 - English: C2
 - Filipino: Mother Tongue
+
+
 
 
 
