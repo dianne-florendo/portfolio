@@ -31,11 +31,14 @@ Prior roles at Optiva Media (now an EPAM Company) enriched my expertise in embed
   - **Exploratory Testing**: Skilled in exploratory testing techniques to uncover defects and issues not easily captured by scripted tests.
   - **Regression Testing**: Expertise in regression testing to validate that recent code changes have not adversely affected existing features.
   - **Smoke Testing**: Proficient in performing smoke tests to assess if a build is stable enough for further, more thorough testing.
+  - **API Testing**: Basic knowledge in testing APIs to ensure they meet functionality and reliability requirements.
   - **Integration Testing**: Experienced in testing interactions between integrated components or systems to verify they behave as expected.
-  - **Sanity Testing**: Skilled in conducting sanity tests to quickly check for major issues and ensure basic functionality after a minor change or deployment.
-  - **End-to-end (E2E) Testing**: Proficient in executing end-to-end tests to validate the entire software system in a real-world scenario from start to finish.
-  - **Accessibility Testing**: Experienced in testing software applications to ensure compliance with accessibility standards, providing an inclusive user experience for all users.
-  - **User Acceptance Testing (UAT)**: Skilled in facilitating UAT with stakeholders to ensure software meets business requirements and is ready for deployment.
+  - **Sanity Testing**: Adept in conducting sanity tests to quickly check for major issues and ensure basic functionality after a minor change or deployment.
+  - **End-to-end (E2E) Testing**: Expert in executing end-to-end tests to validate the entire software system in a real-world scenario from start to finish.
+  - **User Acceptance Testing (UAT)**: Competent in facilitating UAT with stakeholders to ensure software meets business requirements and is ready for deployment.
+- **Compliance Testing**:
+  - **Accessibility Testing**: Versed in testing software applications to ensure compliance with accessibility standards, providing an inclusive user experience for all users.
+  - **GDPR Compliance Testing**: Knowledgeable in testing to ensure applications comply with GDPR, protecting user data privacy and security.
 - **DevOps Practices**: Strong understanding of DevOps principles and practices.
 - **Tools**:
   - **Project Management**: Jira, Trello
@@ -49,7 +52,7 @@ Prior roles at Optiva Media (now an EPAM Company) enriched my expertise in embed
   - **Proxy and Network Analysis**:
     - Charles Proxy: Tool for web debugging and HTTP proxy
     - DevTools: Browser-based developer tool
-  - **Programming Languages**: CSS, HTML, Python
+  - **Programming Languages (Basic Skills)**: CSS, HTML, Python, JavaScript
   - **Other Tools**:
     - Google Suite: Productivity and collaboration tools including Google Docs, Sheets, Slides and Drive
     - Microsoft Office Suite: Suite of applications for productivity including Word, Excel, PowerPoint and Outlook
